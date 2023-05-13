@@ -1,4 +1,6 @@
-# PDF-QAsystem_20230510
+# LangChainによるPDF資料の質疑応答システム (PDF-QAsystem_20230510)
+
+open AI LLM と　LangChainを使って、PDF資料の質疑応答システムを構築しました。結果はGUIを使うと以下の様に表示されます。
 By open AI LLM and LangChain,  I create QA system to extract information of PDF.
 
 
